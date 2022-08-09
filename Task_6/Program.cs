@@ -7,10 +7,8 @@ double namber1 = namber % 2;
 if (namber1 == 0)
 {
     WriteLine("Да, чётное");
-    
 }
 else
 {
     WriteLine("Нет, не четное");
-    
 }
